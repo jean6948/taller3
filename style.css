@@ -31,6 +31,10 @@ html{
     
 }
 
+.buttons input:hover{
+    border: solid 2px aquamarine;
+    }
+
 .redondeado{
     font-family: 'Roboto', sans-serif;
     border-radius: 25px;
